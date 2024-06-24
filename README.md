@@ -9,6 +9,14 @@ python3 ddos.py
 
 
 
+
+
+
+
+
+
+
+
 termux 
 
 apt update 
