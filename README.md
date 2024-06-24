@@ -40,8 +40,4 @@ cd Kali_Moon
 
 python ddos.py 
 
-run tools 
-
-Enter domain web 
-
 
