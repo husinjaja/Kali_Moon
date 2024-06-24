@@ -6,12 +6,15 @@ try:
     from user_agent import generate_user_agent
 except:
     os.system('pip install user_agent')
+    from user_agent import generate_user_agent
+    
 
 import urllib.request
 try:
     import threading
 except:
     os.system('pip install threading')
+    import threading
 
 
 
